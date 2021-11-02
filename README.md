@@ -68,25 +68,25 @@
 - 论文链接：https://aclanthology.org/2020.coling-main.393.pdf
 - 代码链接：http://github.com/lowerquality/gentle
 
-#### 
+#### EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.394.pdf
+- 代码链接：https://github.com/qtli/EmpDG
 
-#### 
+#### A Large-Scale Corpus of E-mail Conversations with Standard and Two-Level Dialogue Act Annotations
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.436.pdf
+- 代码链接：https://github.com/huggingface/transformers
 
-#### 
+#### Adversarial Learning on the Latent Space for Diverse Dialog Generation
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.441.pdf
+- 代码链接：https://github.com/vikigenius/conditional_text_generation
 
-#### 
+#### Out-of-Task Training for Dialog State Tracking Models
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.596.pdf
+- 代码链接：https://gitlab.cs.uni-duesseldorf.de/general/dsml/trippy-public
 
 #### 
 
