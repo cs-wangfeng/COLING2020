@@ -23,30 +23,30 @@
 - 论文链接：https://aclanthology.org/2020.coling-main.219.pdf
 - 代码链接：https://github.com/jianliu-ml/dialogMRC
 
-#### 
+#### Molweni: A Challenge Multiparty Dialogues-based Machine Reading Comprehension Dataset with Discourse Structure
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.238.pdf
+- 代码链接：https://github.com/HIT-SCIR/Molweni
 
-#### 
+#### Dual Dynamic Memory Network for End-to-End Multi-turn Task-oriented Dialog Systems
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.362.pdf
+- 代码链接：https://github.com/siat-nlp/DDMN
 
-#### 
+#### Dual Dynamic Memory Network for End-to-End Multi-turn Task-oriented Dialog Systems
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.362.pdf
+- 代码链接：https://github.com/siat-nlp/DDMN
 
-#### 
+#### Translation vs. Dialogue: A Comparative Analysis of Sequence-to-Sequence Modeling
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.363.pdf
+- 代码链接：https://github.com/OpenMT/OpenMT-py
 
-#### 
+#### Deconstruct to Reconstruct a Configurable Evaluation Metric for Open-Domain Dialogue Systems
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.368.pdf
+- 代码链接：https://github.com/vitouphy/usl_dialogue_metric
 
 #### 
 
