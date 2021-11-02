@@ -48,25 +48,25 @@
 - 论文链接：https://aclanthology.org/2020.coling-main.368.pdf
 - 代码链接：https://github.com/vitouphy/usl_dialogue_metric
 
-#### 
+#### A Co-Attentive Cross-Lingual Neural Model for Dialogue Breakdown Detection
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.371.pdf
+- 代码链接：https://github.com/nusnlp/CXM
 
-#### 
+#### Does Gender Matter? Towards Fairness in Dialogue Systems
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.390.pdf
+- 代码链接：https://github.com/marsan-ma/chat_corpus
 
-#### 
+#### Combining Cognitive Modeling and Reinforcement Learning for Clarification in Dialogue
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.391.pdf
+- 代码链接：https://go.rutgers.edu/
 
-#### 
+#### MEISD: A Multimodal Multi-Label Emotion, Intensity and Sentiment Dialogue Dataset for Emotion Recognition and Sentiment Analysis in Conversations
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.393.pdf
+- 代码链接：http://github.com/lowerquality/gentle
 
 #### 
 
