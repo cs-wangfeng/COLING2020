@@ -88,63 +88,23 @@
 - 论文链接：https://aclanthology.org/2020.coling-main.596.pdf
 - 代码链接：https://gitlab.cs.uni-duesseldorf.de/general/dsml/trippy-public
 
-#### 
+#### Language Model Transformers as Evaluators for Open-domain Dialogues
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.599.pdf
+- 代码链接：https://github.com/SmartDataAnalytics/transformers_dialogue_evaluators
 
-#### 
+#### Few-shot Pseudo-Labeling for Intent Detection
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.438.pdf
+- 代码链接：https://github.com/tdopierre/FewShotPseudoLabeling
 
-#### 
+#### Improving Spoken Language Understanding by Wisdom of Crowds
 
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.234.pdf
+- 代码链接：https://github.com/ahclab/iDST
 
-#### 
+#### Neural Networks approaches focused on French Spoken Language Understanding: application to the MEDIA Evaluation Task
 
-- 论文链接：
-- 代码链接：
-
-#### 
-
-- 论文链接：
-- 代码链接：
-
-#### 
-
-- 论文链接：
-- 代码链接：
-
-#### 
-
-- 论文链接：
-- 代码链接：
-
-#### 
-
-- 论文链接：
-- 代码链接：
-
-#### 
-
-- 论文链接：
-- 代码链接：
-
-#### 
-
-- 论文链接：
-- 代码链接：
-
-#### 
-
-- 论文链接：
-- 代码链接：
-
-#### 
-
-- 论文链接：
-- 代码链接：
+- 论文链接：https://aclanthology.org/2020.coling-main.245.pdf
+- 代码链接：https://github.com/saharghannay/MEDIA
 
